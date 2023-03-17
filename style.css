@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.fullcenter{
+    padding: 15px;
+    display:flex;
+    justify-content: center;
+    align-content: center;
+}
+#Formulário{
+    width: 350px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
